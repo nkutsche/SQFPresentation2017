@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="introduction2.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<section>
+    <title>What is the idea?</title>
+    <p><b>In order to save money and nerves we will give the author the chance to solve the <b>problem</b> by himself without producing new errors.</b> The Schematron report should not only list what the author did wrong. It should give him options &#x2013; called Quick Fixes &#x2013; to fix these errors. The author can now choose which QuickFix is the right fix for the corresponding Schematron error.</p>
+    <p>When he has chosen the matching Quick Fixes, he can "execute" them. With one click his problems end in smoke. Of course, we do not want to pretend that it is that easy. For many errors, no perfect Quick-Fix exists. However, sometimes the errors have to be fixed manually. But the Quick-fixes can help in many situations.</p>
+</section>

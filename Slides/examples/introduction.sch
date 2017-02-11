@@ -3,8 +3,8 @@
     xmlns:sqf="http://www.schematron-quickfix.com/validator/process">
  <sch:pattern>
      <sch:rule context="b">
-         <sch:assert test=".//b"
-             >Recursive bold elements</sch:assert>
+         <sch:report test=".//b"
+             >Recursive bold elements</sch:report>
          
              
                  
